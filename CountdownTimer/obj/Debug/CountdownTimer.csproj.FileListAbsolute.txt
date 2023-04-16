@@ -1,0 +1,31 @@
+D:\Nguyễn Phương Việt\AppC#WinForm\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.exe.config
+D:\Nguyễn Phương Việt\AppC#WinForm\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.exe
+D:\Nguyễn Phương Việt\AppC#WinForm\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.pdb
+D:\Nguyễn Phương Việt\AppC#WinForm\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.Form1.resources
+D:\Nguyễn Phương Việt\AppC#WinForm\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.Properties.Resources.resources
+D:\Nguyễn Phương Việt\AppC#WinForm\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.csproj.GenerateResource.cache
+D:\Nguyễn Phương Việt\AppC#WinForm\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.csproj.CoreCompileInputs.cache
+D:\Nguyễn Phương Việt\AppC#WinForm\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.exe
+D:\Nguyễn Phương Việt\AppC#WinForm\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.pdb
+D:\Nguyễn Phương Việt\AppC#WinForm\CountdownTimer\CountdownTimer\bin\Debug\Resources\clock2.jpg
+D:\Nguyễn Phương Việt\AppC#WinForm\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.csproj.AssemblyReference.cache
+D:\Nguyễn Phương Việt\AppProject\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.exe.config
+D:\Nguyễn Phương Việt\AppProject\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.exe
+D:\Nguyễn Phương Việt\AppProject\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.pdb
+D:\Nguyễn Phương Việt\AppProject\CountdownTimer\CountdownTimer\bin\Debug\Resources\clock2.jpg
+D:\Nguyễn Phương Việt\AppProject\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.exe
+D:\Nguyễn Phương Việt\AppProject\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.pdb
+D:\Nguyễn Phương Việt\AppProject\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.csprojResolveAssemblyReference.cache
+D:\Nguyễn Phương Việt\AppProject\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.Form1.resources
+D:\Nguyễn Phương Việt\AppProject\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.Properties.Resources.resources
+D:\Nguyễn Phương Việt\AppProject\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.csproj.GenerateResource.Cache
+D:\NGUYENPHUONGVIET\AppProject\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.exe.config
+D:\NGUYENPHUONGVIET\AppProject\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.exe
+D:\NGUYENPHUONGVIET\AppProject\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.pdb
+D:\NGUYENPHUONGVIET\AppProject\CountdownTimer\CountdownTimer\bin\Debug\Resources\clock2.jpg
+D:\NGUYENPHUONGVIET\AppProject\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.exe
+D:\NGUYENPHUONGVIET\AppProject\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.pdb
+D:\NGUYENPHUONGVIET\AppProject\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.csprojResolveAssemblyReference.cache
+D:\NGUYENPHUONGVIET\AppProject\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.Form1.resources
+D:\NGUYENPHUONGVIET\AppProject\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.Properties.Resources.resources
+D:\NGUYENPHUONGVIET\AppProject\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.csproj.GenerateResource.Cache
